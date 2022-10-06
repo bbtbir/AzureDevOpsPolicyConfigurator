@@ -28,4 +28,4 @@ jobs:
       # Build solution
       - name: Run Build
         run: |
-          ,/build.ps1
+          ./build.ps1
